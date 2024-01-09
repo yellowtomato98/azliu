@@ -87,7 +87,8 @@ $$
 be the precision matrix corresponding to $$x$$. 
 
 <a id="2.1"></a>
-#### 2.1. Computing marginal gaussian from joint gaussian
+
+### 2.1. Computing marginal gaussian from joint gaussian
 
 The first question we will focus on is how to compute the marginal
 
