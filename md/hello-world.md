@@ -2,16 +2,12 @@
 title: Hello World
 subtitle: welcome to my website!
 date: '2023-12-19'
-time: 5m
+time: 30s
 published: true
 ---
 
-## this is a test! 
+Welcome to my website! 
 
-Hello. 
+This website is powered by [Svelte](https://svelte.dev/). Although most of this site is not too sophisticated, setting up these blogs (that could support math rendering!) was an interesting challenge.
 
-$x+5=6$.
-
-$$
-x+y = 5.
-$$
+My domain is registered with [Namecheap](https://www.namecheap.com/) and the site is hosted on [Github Pages](https://pages.github.com/). I collect analytics with [Google](https://analytics.withgoogle.com/).
