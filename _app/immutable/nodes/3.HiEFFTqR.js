@@ -1,4 +1,4 @@
-import{s as P,n as z}from"../chunks/scheduler.ILyNqTRB.js";import{S as A,i as j,g as i,s as c,h as n,y as m,c as _,j as D,f as e,k as V,a as l}from"../chunks/index.7bzbrCaO.js";function E(N){let s,C=`This is a list of some the classes that I&#39;ve taken or are currently taking. I
+import{s as P,n as z}from"../chunks/scheduler.ILyNqTRB.js";import{S as A,i as j,g as i,s as c,h as n,y as m,c as _,j as D,f as e,k as V,a as l}from"../chunks/index.OHmL9-yj.js";function E(N){let s,C=`This is a list of some the classes that I&#39;ve taken or are currently taking. I
   like to take notes in LaTeX. I use my own style package to format my
   documents, which can be found <a href="https://github.com/azliu0/_andrew.sty" target="_blank" class="ref">here</a>.`,g,r,M=`My setup is <a href="https://neovim.io/" target="_blank" class="ref">Neovim</a>
   with
