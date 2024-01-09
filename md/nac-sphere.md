@@ -183,7 +183,7 @@ Let $D$ be his position in the celestial sphere. When $\chi$ first crosses the e
 
 <p style="text-align: center;">
 
-<img src="/assets/images/logs/l21.png" width="50%" height="50%"/>
+<img src="/assets/images/logs/l21.png" width="75%" height="75%"/>
 
 </p>
 
@@ -261,11 +261,18 @@ $$
 
 #### (i) [(ques)](#ques-i)
 
-The key for this part is to draw a good diagram.
+The key for this part is to draw good diagrams. Below is a larger picture of the trajectory:
 <div class="flex justify-center">
 
-<img src="/assets/images/logs/l22.png" width="45%" height="45%"/>
-<img src="/assets/images/logs/l23.png" width="45%" height="45%"/>
+<img src="/assets/images/logs/l22.png" width="75%" height="75%"/>
+
+</div>
+
+Below we decompose the trajectory:
+
+<div class="flex justify-center">
+
+<img src="/assets/images/logs/l23.png" width="75%" height="75%"/>
 
 </div>
 
