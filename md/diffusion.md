@@ -507,7 +507,7 @@ $$
 \end{align*}
 $$
 
-# References
+## References
 
 [1] Brooks et al. ["InstructPix2Pix: Learning to Follow Image Editing Instructions"](https://arxiv.org/abs/2211.09800) (2022).
 
