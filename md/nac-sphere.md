@@ -181,11 +181,11 @@ $$
 
 Let $D$ be his position in the celestial sphere. When $\chi$ first crosses the east-west meridian, $D$ must satisfy $\angle ND\chi = 90^{\circ}$, as shown in the diagram below. The red line in the diagram represents his trajectory in the celestial sphere (this trajectory is not a great circle, so we cannot use it in our calculations). 
 
-<p style="text-align: center;">
+<div class="flex justify-center">
 
 <img src="/assets/images/logs/l21.png" width="75%" height="75%" alt="sphere"/>
 
-</p>
+</div>
 
 Now, chasing angles:
 - The perpendicular condition implies that $D$ is the apex of another great circle (call $\Gamma$) that passes through both $D$ and $\chi$. $\Gamma$ intersects the equator at a point $A$, such that $DA = 90^{\circ}$.  
