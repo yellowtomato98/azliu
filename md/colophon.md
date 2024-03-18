@@ -1,6 +1,6 @@
 ---
-title: Hello World
-subtitle: welcome to my website!
+title: Colophon
+subtitle: hello world
 date: '2024-01-07'
 time: 30s
 toc: false
@@ -16,9 +16,9 @@ This website was built with [Svelte](https://svelte.dev/) and [Tailwind](https:/
 
 The workflow for rendering blogs is approximately as follows:
 - Write the blog in a markdown file
-- Process the markdown using a script, which produces a more nicely formatted markdown file including things like headers, links, and a table of contents
+- Process the markdown using a script, which produces a more nicely formatted markdown file including things like headers, links, and a table of contents. The output of this script is the markdown you see when you press ``read markdown'' below.
 - mdsvex properly compiles the markdown into a Svelte component
 
-My domain is registered with [Namecheap](https://www.namecheap.com/) and the site is hosted on [Github Pages](https://pages.github.com/). I collect analytics with [Google](https://analytics.withgoogle.com/).
+The font used everywhere [Figtree](https://fonts.google.com/specimen/Figtree). My domain is registered with [Namecheap](https://www.namecheap.com/) and the site is hosted on [Github Pages](https://pages.github.com/). I collect analytics with [Google](https://analytics.withgoogle.com/).
 
 I don't post often, but if you would like to, you can subscribe to my posts via [RSS](https://azliu.cc/feed.xml). All code for this website lives in [this repository](https://github.com/azliu0/azliu). 
