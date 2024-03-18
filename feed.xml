@@ -6,19 +6,19 @@
     <description>I'm Andrew Liu, an undergraduate studying Computer Science (course 6) and Mathematics (course 18) at MIT.</description>
     <item>
       <title>Image to Image Translation</title>
-      <link>https://azliu.cc/diffusion</link>
+      <link>https://azliu.cc/logs/diffusion</link>
       <description>the math behind diffusion models</description>
       <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Finding Friends</title>
-      <link>https://azliu.cc/nac-sphere</link>
+      <link>https://azliu.cc/logs/nac-sphere</link>
       <description>spherical trig</description>
       <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Hello World</title>
-      <link>https://azliu.cc/hello-world</link>
+      <link>https://azliu.cc/logs/hello-world</link>
       <description>welcome to my website!</description>
       <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
     </item>
