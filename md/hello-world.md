@@ -1,6 +1,6 @@
 ---
-title: Colophon
-subtitle: hello world
+title: Hello World
+subtitle: about this website
 date: '2024-01-07'
 time: 30s
 toc: false
