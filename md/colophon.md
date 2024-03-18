@@ -21,4 +21,4 @@ The workflow for rendering blogs is approximately as follows:
 
 The font used everywhere [Figtree](https://fonts.google.com/specimen/Figtree). My domain is registered with [Namecheap](https://www.namecheap.com/) and the site is hosted on [Github Pages](https://pages.github.com/). I collect analytics with [Google](https://analytics.withgoogle.com/).
 
-I don't post often, but if you would like to, you can subscribe to my posts via [RSS](https://azliu.cc/feed.xml). All code for this website lives in [this repository](https://github.com/azliu0/azliu). 
+You can subscribe to my posts via [RSS](https://azliu.cc/feed.xml). All code for this website lives in [this repository](https://github.com/azliu0/azliu). 
