@@ -7,18 +7,21 @@
     <item>
       <title>Image to Image Translation</title>
       <link>https://azliu.cc/diffusion</link>
+      <guid>https://azliu.cc/diffusion</guid>
       <description>the math behind diffusion models</description>
       <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Finding Friends</title>
       <link>https://azliu.cc/nac-sphere</link>
+      <guid>https://azliu.cc/nac-sphere</guid>
       <description>spherical trig</description>
       <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Colophon</title>
       <link>https://azliu.cc/colophon</link>
+      <guid>https://azliu.cc/colophon</guid>
       <description>hello world</description>
       <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
     </item>
