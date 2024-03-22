@@ -8,7 +8,12 @@ published: true
 ---
 
 
-### Table of Contents
+<br />
+<details>
+  <summary>Table of Contents</summary>
+
+<br/>
+
   - [1. DDPM](#1-ddpm)
     - [1.1. Foundation](#11-foundation)
     - [1.2. Clarifying $$x_t$$](#12-clarifying-$$x-t$$)
@@ -25,6 +30,7 @@ published: true
   - [5. Modifying the conditional objective for Pix2Pix](#5-modifying-the-conditional-objective-for-pix2pix)
   - [References](#references)
 
+</details>
 <hr />
 
 
@@ -247,7 +253,8 @@ $$
 \ln p(x,y) &= -\frac{1}{2}(x-\mu)^T\Lambda (x-\mu) - \frac{1}{2}(y-Ax-b)^TL(y-Ax-b) + \text{const} \\
 &= -\frac{1}{2}\left(x^T\Lambda x + x^TA^TLAx + y^TLy - y^TLA - x^TA^TLy \right. \\
 &\qquad\qquad \left. - 2x^T\Lambda \mu + 2x^TA^TLb - 2y^TLb\right) + \text{const} \\
-&= -\frac{1}{2}\begin{pmatrix}x \\ y\end{pmatrix}^T\begin{pmatrix}\Lambda + A^TLA & -A^TL \\ -LA & L\end{pmatrix}\begin{pmatrix}x \\ y\end{pmatrix} + \begin{pmatrix}x \\ y\end{pmatrix}^T\begin{pmatrix}\Lambda\mu - A^TLb \\ Lb\end{pmatrix} + \text{const}.
+&= -\frac{1}{2}\begin{pmatrix}x \\ y\end{pmatrix}^T\begin{pmatrix}\Lambda + A^TLA & -A^TL \\ -LA & L\end{pmatrix}\begin{pmatrix}x \\ y\end{pmatrix} \\
+&\qquad + \begin{pmatrix}x \\ y\end{pmatrix}^T\begin{pmatrix}\Lambda\mu - A^TLb \\ Lb\end{pmatrix} + \text{const}.
 \end{align*}
 $$
 
@@ -289,7 +296,8 @@ Applying this to multivariate $$P=\mathcal{N}(\mu_1, \Sigma_1)$$ and $$Q=\mathca
 
 $$
 \begin{align*}
-\mathbb{E}_{x\sim p(x)}\left[\log \frac{p(x)}{q(x)}\right] &= \frac{1}{2}\mathbb{E}_{x\sim p(x)}\left[\log \frac{\vert \Sigma_2\vert}{\vert \Sigma_1\vert} - (x-\mu_1)^T\Sigma_1^{-1}(x-\mu_1) + (x-\mu_2)^T\Sigma_2^{-1}(x-\mu_2)\right].
+&\mathbb{E}_{x\sim p(x)}\left[\log \frac{p(x)}{q(x)}\right] \\
+&\quad =\frac{1}{2}\mathbb{E}_{x\sim p(x)}\left[\log \frac{\vert \Sigma_2\vert}{\vert \Sigma_1\vert} - (x-\mu_1)^T\Sigma_1^{-1}(x-\mu_1) + (x-\mu_2)^T\Sigma_2^{-1}(x-\mu_2)\right].
 \end{align*}
 $$
 
