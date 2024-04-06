@@ -18,12 +18,5 @@
       <description>spherical trig</description>
       <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
     </item>
-    <item>
-      <title>Hello World</title>
-      <link>https://azliu.cc/logs/hello-world</link>
-      <guid isPermalink="true">https://azliu.cc/logs/hello-world</guid>
-      <description>about this website</description>
-      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
   </channel>
 </rss>
