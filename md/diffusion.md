@@ -1,6 +1,6 @@
 ---
 title: Image to Image Translation
-subtitle: the math behind diffusion models
+subtitle: diffusion models
 date: '2024-01-25'
 time: 30m
 toc: true
