@@ -5,6 +5,13 @@
     <link>https://azliu.cc/logs</link>
     <description>I'm Andrew Liu, an undergraduate studying Computer Science (course 6) and Mathematics (course 18) at MIT.</description>
     <item>
+      <title>Rise and Fall of Honeycomb</title>
+      <link>https://azliu.cc/logs/rise-and-fall-of-honeycomb</link>
+      <guid isPermalink="true">https://azliu.cc/logs/rise-and-fall-of-honeycomb</guid>
+      <description>honeycomb</description>
+      <pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Image to Image Translation</title>
       <link>https://azliu.cc/logs/diffusion</link>
       <guid isPermalink="true">https://azliu.cc/logs/diffusion</guid>
