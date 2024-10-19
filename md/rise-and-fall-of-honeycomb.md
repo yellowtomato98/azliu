@@ -29,7 +29,7 @@ published: true
 
 <br />
 
-<div style='display: flex; flex-direction: column; align-items: center;'><img src='/assets/images/logs/honeycomb.png' alt='' width='800px' /><i></i></div>
+<div style='display: flex; flex-direction: column; align-items: center; text-align: center;'><img src='/assets/images/logs/honeycomb.png' alt='' width='800px' /><i></i></div>
 
 <br />
 
@@ -102,11 +102,11 @@ unfortunately find out later that SWE-Bench wasn't a good proxy for that.
 
 Nevertheless, at the end of ~3 months, we reached our goal of surpassing state-of-the-art.
 
-<div style='display: flex; flex-direction: column; align-items: center;'><img src='/assets/images/logs/swebench-gh.png' alt='https://github.com/swe-bench/experiments/pull/61' width='800px' /><i>https://github.com/swe-bench/experiments/pull/61</i></div>
+<div style='display: flex; flex-direction: column; align-items: center; text-align: center;'><img src='/assets/images/logs/swebench-gh.png' alt='https://github.com/swe-bench/experiments/pull/61' width='800px' /><i>https://github.com/swe-bench/experiments/pull/61</i></div>
 
 <br />
 
-<div style='display: flex; flex-direction: column; align-items: center;'><img src='/assets/images/logs/swebench-leaderboard.png' alt='https://swebench.com' width='800px' /><i>https://swebench.com</i></div>
+<div style='display: flex; flex-direction: column; align-items: center; text-align: center;'><img src='/assets/images/logs/swebench-leaderboard.png' alt='https://swebench.com' width='800px' /><i>https://swebench.com</i></div>
 
 <br />
 
@@ -135,7 +135,7 @@ The main problem was that we launched before our result had shown up on the lead
 buried the lede, i.e., the fact that we were state-of-the-art was hidden in the thread. Our group
 partner Jared helped fix this for us and boosted us when we finally got on the leaderboard about a week later:
 
-<div style='display: flex; flex-direction: column; align-items: center;'><img src='/assets/images/logs/launch-two.png' alt='https://x.com/snowmaker/status/1831219425007296566' width='400px' /><i>https://x.com/snowmaker/status/1831219425007296566</i></div>
+<div style='display: flex; flex-direction: column; align-items: center; text-align: center;'><img src='/assets/images/logs/launch-two.png' alt='https://x.com/snowmaker/status/1831219425007296566' width='400px' /><i>https://x.com/snowmaker/status/1831219425007296566</i></div>
 
 This performed much better, and we got a lot of traction. Still, there were lots of things that we messed up. 
 We weren't qualifying leads correctly, we didn't have a CRM set up, etc. We probably threw dozens of sales calls because we were unrefined at sales. This probably wouldn't have mattered if the product was better, but these were small mistakes that could have been avoided with a bit more experience.
