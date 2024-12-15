@@ -232,5 +232,5 @@ internship or job offers, e.g., "I have an internship lined up in X months,
 the startup must work by then or I'll go there instead". Even if well-intentioned,
 this is a perverse incentive.
 
-This is one problem with YC, which is that it's become a credential, it can be gamed to get into,
+This is one problem with YC, which is that it becomes a credential, it can be gamed to get into,
 and it's easy to give up immediately after the batch when the prestige goes away.
