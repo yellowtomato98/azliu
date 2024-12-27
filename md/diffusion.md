@@ -31,7 +31,6 @@ published: true
   - [References](#references)
 
 </details>
-<hr />
 
 
 
